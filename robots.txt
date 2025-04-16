@@ -1,3 +1,2 @@
 User-agent: *
 Allow: /
-Sitemap: https://www.aa7.kr/sitemap.xml
